@@ -35,3 +35,9 @@ pip install -r requirements.txt
 - **SpeechRecognition** - Library for performing speech recognition with various engines, including Google's speech recognition system.
 - **OpenAI** - Provider of advanced natural language processing capabilities.
 - **Wolfpharma** - API for accessing pharmaceutical information.
+
+## Contact
+
+For any inquiries or feedback, please contact the project team at [skumailhaiderhsp@gmail.com]
+
+Feel free to customize this template to match your project's specific requirements and add any additional sections or information as needed. Remember to replace the `Syedkumailhaider512` placeholder in the installation instructions with your actual GitHub username.
