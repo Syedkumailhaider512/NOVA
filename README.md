@@ -1,5 +1,7 @@
 # NOVA
 
+![NOVA Logo](nova_logo.png)
+
 NOVA is an intelligent voicebot powered by OpenAI, designed to assist you with a wide range of tasks such as calculations, weather updates, general conversation, and more. With NOVA, you can experience the convenience of a voice-controlled assistant similar to Alexa or Siri, right from your computer.
 
 ## Features
