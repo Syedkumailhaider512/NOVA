@@ -26,3 +26,12 @@ git clone https://github.com/Syedkumailhaider512/NOVA.git
 ```shell
 pip install -r requirements.txt
 ```
+
+3. Start NOVA
+
+## Acknowledgements
+
+- **pyttsx3** - Text-to-speech conversion library for Python.
+- **SpeechRecognition** - Library for performing speech recognition with various engines, including Google's speech recognition system.
+- **OpenAI** - Provider of advanced natural language processing capabilities.
+- **Wolfpharma** - API for accessing pharmaceutical information.
