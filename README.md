@@ -18,4 +18,11 @@ To set up NOVA on your local machine, follow these steps:
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/NOVA-Voicebot.git
+git clone https://github.com/Syedkumailhaider512/NOVA.git
+```
+
+2. Install the required dependencies:
+
+```shell
+pip install -r requirements.txt
+```
